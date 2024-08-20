@@ -31,6 +31,20 @@ You will use your data warehousing skills to design and implement a data warehou
 
 ## Uploading data from flat files /to the created tables 
 
+-### Loading  data to the  waste type fact table 
+![Screenshot 2024-08-19 223232](https://github.com/user-attachments/assets/76bce3b1-d8a6-4a4c-8400-a4964b83f061)
+- ### Loading data to the station/zone dimension table
+- <img width="344" alt="dimstation" src="https://github.com/user-attachments/assets/138dd947-8e93-4e43-9841-6cf7cecace62">
+- ### loading data to the  date dimension table
+   <img width="679" alt="DimDate" src="https://github.com/user-attachments/assets/84bbf3da-7f27-4ce8-9efd-fe66d62e2c53">
+- ### loading data to the truck  type
+- <img width="694" alt="dimtruck" src="https://github.com/user-attachments/assets/03926cde-7958-4491-9fae-b72f98f2c528">
+
+  
+- 
+
+
+
   
 
 
