@@ -12,3 +12,18 @@ You are a data engineer hired by a solid waste management company. It collects a
 - Total waste collected per trucktype per station per city
 - 
 You will use your data warehousing skills to design and implement a data warehouse for the company.
+
+### Sample data ; 
+![image](https://github.com/user-attachments/assets/569a3eab-12bf-49e5-ba23-eb22de76d471)
+
+## Designing a data schema 
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/e55356cd-a3df-448f-9922-7c3ed27df5a2">
+
+## Creating Fact and Dimension Tables 
+
+
+
+
+
+
+
